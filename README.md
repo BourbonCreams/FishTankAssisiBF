@@ -20,26 +20,40 @@ The following is a working example of the 'settings.txt' file, which defines the
 
 
 Number of Fish-CASU: 1
+
 Number of zebra-fish: 2
+
 Starting positions
+
 15 13 4.0672
+
 5 20 4.0672
+
 5 22 4.0672
 
-Inter
-10 15 4.0672
-5 15 4.0672
-5 18 4.0672
 
 Inter
+
+10 15 4.0672
+
+5 15 4.0672
+
+5 18 4.0672
+
+
+Inter
+
 8 20 4.0672
+
 5 10 4.0672
+
 5 12 4.0672
+
 
 
 Note that the last 'Inter' position corresponds to the final position.
 
 
-ANIMATION:
+####ANIMATION:
 
 To render the animation, click on the 'Animation' button on the bottom-right panel (it may take some minutes, depending on how many objects are in the scene). The video will appear in the 'Animations' folder. Its name must be changed to make the video playable: '.dvd' must be replaced with '.mpeg'.
