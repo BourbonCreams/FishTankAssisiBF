@@ -1,6 +1,6 @@
 # FishTankAssisiBF
 
-This is a guide to the use of the Python script called "script.blend", which is run in Blender. It is meant to replicate possible situations found during the AssisiBF project, which studies the behaviour of real fish and bees when robotic counter-parts are put in the same environment. To read more about AssisiBF, please visit their website: http://assisi-project.eu/
+This is a guide to the use of the Python script called "script.blend", which is run in Blender. It is meant to replicate possible situations found during the AssisiBF project, which studies the behaviour of real fish and bees when robotic counter-parts are put in the same environment. To know more about AssisiBF, please visit their website: http://assisi-project.eu/
 
 The script uses models of a real fish, a robotic fish and a fish tank, which are located in the 'Models' folder.
 
@@ -55,7 +55,7 @@ Inter
 
 
 
-Note that the last 'Inter' position corresponds to the final position.
+*Note that the last 'Inter' position corresponds to the final position.*
 
 
 #### ANIMATION:
